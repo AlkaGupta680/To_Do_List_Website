@@ -1,2 +1,11 @@
 # To_Do_List_Website
-A user-friendly To-Do List website that allows adding, editing, and deleting tasks. Built with HTML, CSS, and JavaScript for task management. Responsive and easy to use.
+This repository contains the source code for a To-Do List website where users can manage tasks efficiently. 
+
+## Features
+- Add, edit, and delete tasks
+- Mark tasks as complete or incomplete
+- Responsive design for mobile and desktop
+- Data persistence using browser storage (e.g., localStorage)
+
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
